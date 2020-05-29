@@ -1,5 +1,2 @@
 aha
-<<<<<<< HEAD
-=======
-i am testing branch
->>>>>>> studyBranch
+lalala
